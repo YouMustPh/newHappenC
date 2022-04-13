@@ -7,6 +7,7 @@
 int main()
 {
 
+    
     Button *btnPower = button_create("circle", "smooth", "power");
     Button *btnReset = button_create("circle", "smooth", "reset");
 
